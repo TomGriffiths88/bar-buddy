@@ -1,0 +1,28 @@
+.Navigation {
+    font-family: 'Playfair Display', serif;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    margin-left: auto;
+    font-size: 1.2rem;
+}
+
+.Navigation a {
+    color: #B7BFB4;
+    text-decoration: none;
+    margin: 15px;
+    border-bottom: 2px solid transparent;
+}
+
+.Navigation a:last-child {
+    margin-right: 0; 
+}
+
+.Navigation a:hover,
+.Navigation a:active,
+.Navigation a.active {
+    color: rgb(254, 254, 254);
+    border-bottom: 2px solid #A66565;
+}
+

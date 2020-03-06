@@ -1,0 +1,15 @@
+.Logo {
+    color: rgb(211, 206, 206);
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+@media (max-width: 500px) {
+
+    .Logo {
+        font-size: 1.6rem;
+    }
+    
+}

@@ -1,0 +1,43 @@
+.Search {
+    width: 100%;
+    /* height: 100%; */
+    display: flex;
+    justify-content: center;
+}
+
+.Search form {
+    width: 70%;
+    min-width: 350px;
+    display: flex;
+    align-items: center;
+    margin-top: 30vh;
+    flex-direction: column;
+}
+
+.Search p {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.Search input, button{
+    border: 1px solid black;
+    font-family: inherit;
+    padding: 10px;
+    font-size: 20px;
+    outline: none;
+    width: 100%;
+    background-color: inherit;
+}
+
+.Search input {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Search button {
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin: 10px;
+}

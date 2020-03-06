@@ -47,9 +47,9 @@ class App extends Component  {
 
       return (
         <div className="App">
-          <BrowserRouter>
+          <BrowserRouter basename={'/bar-buddy'}>
             <Layout>
-              <Route path='/menu' exact render={() => <Menu cocktails={this.state.menu} />} />
+              <Route path='/menu'exact render={() => <Menu cocktails={this.state.menu} />} />
               <Route path='/' exact component={Search} />
               <Route path='/cocktails/:query' component={Cocktails} />
               <Route path='/cocktail/:id' render={() => <FullCocktail add={this.addToMenuHandler} remove={this.removeFromMenuHandler} menu={this.state.menu}/>} />

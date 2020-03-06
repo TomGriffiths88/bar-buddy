@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bar-buddy/static/css/main.8f651b1e.chunk.css",
-    "main.js": "/bar-buddy/static/js/main.725e2406.chunk.js",
-    "main.js.map": "/bar-buddy/static/js/main.725e2406.chunk.js.map",
+    "main.js": "/bar-buddy/static/js/main.baae0dc5.chunk.js",
+    "main.js.map": "/bar-buddy/static/js/main.baae0dc5.chunk.js.map",
     "runtime-main.js": "/bar-buddy/static/js/runtime-main.fc0b0e17.js",
     "runtime-main.js.map": "/bar-buddy/static/js/runtime-main.fc0b0e17.js.map",
     "static/js/2.b4975edc.chunk.js": "/bar-buddy/static/js/2.b4975edc.chunk.js",
     "static/js/2.b4975edc.chunk.js.map": "/bar-buddy/static/js/2.b4975edc.chunk.js.map",
     "index.html": "/bar-buddy/index.html",
-    "precache-manifest.9d1a31407a30be860bb7bd788c3489b9.js": "/bar-buddy/precache-manifest.9d1a31407a30be860bb7bd788c3489b9.js",
+    "precache-manifest.f54b5d68705ea11702a419648e24cca8.js": "/bar-buddy/precache-manifest.f54b5d68705ea11702a419648e24cca8.js",
     "service-worker.js": "/bar-buddy/service-worker.js",
     "static/css/main.8f651b1e.chunk.css.map": "/bar-buddy/static/css/main.8f651b1e.chunk.css.map",
     "static/js/2.b4975edc.chunk.js.LICENSE.txt": "/bar-buddy/static/js/2.b4975edc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fc0b0e17.js",
     "static/js/2.b4975edc.chunk.js",
     "static/css/main.8f651b1e.chunk.css",
-    "static/js/main.725e2406.chunk.js"
+    "static/js/main.baae0dc5.chunk.js"
   ]
 }
